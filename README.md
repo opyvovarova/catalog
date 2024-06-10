@@ -32,3 +32,11 @@
 Сделать миграции на соответствующие таблицы.
 Использовать javascript и frontend-фреймворки не обязательно.
 
+## Для работы приложение необходимо :
+1) git clone project
+2) composer install
+3) php artisan migrate
+4) php artisan db:seed
+5) php artisan serve
+6) npm install 
+7) npm run dev
